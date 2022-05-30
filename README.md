@@ -24,8 +24,8 @@ $ npm install vue-add-local
 
 <script>
 import Vue from 'vue';
-import AddToLocalStorage from './plugins/AddToLocalStorage';
-Vue.use(AddToLocalStorage);
+import VueAddLocal from 'vue-add-local';
+Vue.use(VueAddLocal);
 
 export default {
   name: 'App',
@@ -36,4 +36,3 @@ export default {
 ## Demo
 
 ![demo](https://res.cloudinary.com/ngaboindev/image/upload/v1653900610/gifs/ezgif-3-14dc7b28ea_pxfxf8.gif)
-
