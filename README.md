@@ -32,3 +32,8 @@ export default {
 };
 </script>
 ```
+
+## Demo
+
+![demo](https://res.cloudinary.com/ngaboindev/image/upload/v1653900610/gifs/ezgif-3-14dc7b28ea_pxfxf8.gif)
+
