@@ -24,8 +24,8 @@ $ npm install vue-add-local
 
 <script>
 import Vue from 'vue';
-import AddToLocalStorage from './plugins/AddToLocalStorage';
-Vue.use(AddToLocalStorage);
+import VueAddLocal from 'vue-add-local';
+Vue.use(VueAddLocal);
 
 export default {
   name: 'App',
