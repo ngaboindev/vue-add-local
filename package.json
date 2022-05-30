@@ -1,0 +1,9 @@
+{
+  "name": "vue-add-local",
+  "version": "0.0.1",
+  "description": "bind input value to local storage",
+  "main": "index.js",
+  "repository": "",
+  "author": "Robert Ngabo <robbingabo9@gmail.com>",
+  "license": "MIT"
+}
